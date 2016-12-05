@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleDrawerLayout_2</string>
+    <string-array name="arrays">
+        <item>Profile</item>
+        <item>New Feed</item>
+    </string-array>
+</resources>
